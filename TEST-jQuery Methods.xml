@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+	<testsuite tests="8" errors="0" failures="0" time="0.031" timestamp="2018-05-22T16:35:32">
+		<testcase classname="jQuery Methods" name="#fancyShmancy returns the updated paragraph" time="0.005">
+		</testcase>
+		<testcase classname="jQuery Methods" name="#addText returns the paragraph with new text" time="0.003">
+		</testcase>
+		<testcase classname="jQuery Methods" name="#showDolphin makes the dolphin image visible in the browser" time="0.008">
+		</testcase>
+		<testcase classname="jQuery Methods" name="#hideImage hides the pie face gif" time="0.002">
+		</testcase>
+		<testcase classname="jQuery Methods" name="#fadeIt shows the list of favorite snacks" time="0.005">
+		</testcase>
+		<testcase classname="jQuery Methods" name="#fadeItOut hides the second paragraph" time="0.003">
+		</testcase>
+		<testcase classname="jQuery Methods" name="#findItByClass returns true for the a tag and false for every other tag" time="0.003">
+		</testcase>
+		<testcase classname="jQuery Methods" name="#formValue returns the value of the last input tag" time="0.002">
+		</testcase>
+	</testsuite>
+</testsuites>
+
